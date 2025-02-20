@@ -1,0 +1,29 @@
+{
+  "name": "@vokoloven/react-application-template",
+  "version": "1.0.0",
+  "description": "A custom React application template with Webpack",
+  "main": "bin/cli.js",
+  "bin": {
+    "react-application-template": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0",
+    "prepublishOnly": "echo 'Preparing for publish...' && exit 0"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "template",
+    "cli",
+    "react-template"
+  ],
+  "author": "Ruslan Volovenko",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
