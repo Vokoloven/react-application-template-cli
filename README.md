@@ -22,14 +22,18 @@ A customizable React application template built with Webpack, TypeScript, ESLint
 - **Node.js**: v16 or higher
 - **npm**: v8 or higher
 
-## Installation
+### Option 1: Run with `npx` (Recommended)
+```bash
+npx @vokoloven/react-application-template <project-name>
+cd <project-name>
+npm start
+```
 
-1. Installation:
-
-   ```bash
-   npm i @vokoloven/react-application-template
-   cd react-application-template
-   ```
+### Option 2: Install Globally
+```bash
+npm install -g @vokoloven/react-application-template
+react-application-template my-project
+```
 
 ## License
 
