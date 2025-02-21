@@ -34,11 +34,3 @@ npm start
 npm install -g @vokoloven/react-application-template
 react-application-template my-project
 ```
-
-## License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Ruslan Volovenko
