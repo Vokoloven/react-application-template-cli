@@ -1,6 +1,6 @@
 {
   "name": "@vokoloven/react-application-template",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A custom React application template with Webpack",
   "main": "bin/cli.js",
   "bin": {
